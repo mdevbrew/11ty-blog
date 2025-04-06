@@ -1,5 +1,5 @@
 ---
-title: My First Article
+title: The First Article
 author: MDEV
 date: 2021-05-01
 tags: ["post", "featured"]
